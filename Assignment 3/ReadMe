@@ -1,0 +1,6 @@
+Task: Access some data in Jason format via any open-source API. Parse the data and present it as a dashboard.
+
+Steps followed:
+subscribed to the Sephora API, which provides a list of stores sorted by radius, latitude, and longitude.
+installed dash requests in Python using pip
+my work was saved in sephora.py.
